@@ -38,15 +38,15 @@ export default function Home() {
         </p>
         <div className="blogs">
           <h2>Popular blogs</h2>
-          <div className="bogitem">
+          <div className="blogitem">
             <h3>How to learn javascript in 2022</h3>
             <p>Javascript is the lang. used to design logic for the web</p>
           </div>
-          <div className="bogitem">
+          <div className="blogitem">
             <h3>How to learn javascript in 2022</h3>
             <p>Javascript is the lang. used to design logic for the web</p>
           </div>
-          <div className="bogitem">
+          <div className="blogitem">
             <h3>How to learn javascript in 2022</h3>
             <p>Javascript is the lang. used to design logic for the web</p>
           </div>
